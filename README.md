@@ -1,6 +1,6 @@
 # bobcat
 ## welcome to bobcat
-bobcat is a libraries that support thrift run
+bobcat is a library that support thrift run
 
 
 ## Getting Started
