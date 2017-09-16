@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+bobcat_path = File.expand_path('../../lib', __FILE__)
+$:.unshift(bobcat_path)
+require_relative('../lib/bobcat/commands_tasks')
+
