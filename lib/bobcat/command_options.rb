@@ -6,7 +6,7 @@ module Bobcat
         opts.banner = "Usage "
 
         options[:daemon] = false
-        options[:mode] = 'nonblocking'
+        options[:mode]   = 'nonblocking'
 
         opts.on('-d', '--daemon', 'Start service as daemon') do
           options[:daemon] = true
