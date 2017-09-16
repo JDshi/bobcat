@@ -4,7 +4,7 @@ bobcat is a library that support thrift run
 
 
 ## Getting Started
-1.Before using this library you need to manually create a project, and USES the following directory structure
+1.Before using this library you need to manually create a project, and use the following directory structure
 
 
 
